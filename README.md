@@ -1,7 +1,7 @@
 # viyv-llm-gateway
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrainFiber/.assets/main/viyv.svg" width="120" alt="viyv logo"/>
+  <img src="https://raw.githubusercontent.com/BrainFiber/.assets/images/viyv_logo.png" width="120" alt="viyv logo"/>
 </p>
 
 Edge‑friendly reverse proxy that hides your LLM API keys and lets you route requests to **OpenAI / Google Gemini / Anthropic** (or any other provider) with a single, stable URL.
